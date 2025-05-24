@@ -43,3 +43,4 @@ This will generate a `build` directory with the optimized production build.
 ## License
 
 This project is licensed under the MIT License.
+
