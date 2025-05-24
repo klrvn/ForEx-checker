@@ -1,6 +1,6 @@
 # My React App
 
-This is a simple React application that displays a "Hello World" message.
+This is a simple React application that displays a "Hello World" message.Hello.
 
 ## Getting Started
 
