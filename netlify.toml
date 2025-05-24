@@ -1,4 +1,8 @@
 [build]
-  base = "/"
-  publish = "public"
-  command = "cp -r src public/src"
+  command = "npm run build"
+  publish = "build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
