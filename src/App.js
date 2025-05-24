@@ -2,9 +2,8 @@ import React from 'react';
 
 function App() {
   return (
-    <div style={{ textAlign: 'center', marginTop: '50px' }}>
-      <h1>Hello World!</h1>
-      <p>This is a simple React app deployed on Netlify.</p>
+    <div>
+      <h1>Exchange Rate Checker</h1>
     </div>
   );
 }
